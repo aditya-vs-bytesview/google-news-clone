@@ -2,6 +2,10 @@
 
 A full-stack, server-rendered **Google News** style reader built with **Next.js 14 (App Router)** and **TypeScript**. Every headline comes live from the [NewsData.io](https://newsdata.io) REST API.
 
+## Screenshots
+
+![google-news-clone](docs/screenshots/Screenshot-from-2026-08-26-18-12-57.png)
+
 ![Stack](https://img.shields.io/badge/Next.js-14-black) ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue) ![NewsData.io](https://img.shields.io/badge/API-NewsData.io-orange)
 
 ## Features
